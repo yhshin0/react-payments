@@ -72,3 +72,25 @@
 ## 🐞 Bug Report
 
 버그를 발견한다면, [Issues](https://github.com/woowacourse/react-payments/issues)에 등록해주세요.
+
+---
+
+## react-typescript-storybook-husky-boilerplate
+https://github.com/hochan222/react-typescript-storybook-husky-boilerplate
+
+- serve react
+```
+yarn start
+```
+- storybook 
+```
+yarn storybook
+```
+- eslint
+```
+yarn lint
+```
+- prettier
+```
+yarn format
+```
