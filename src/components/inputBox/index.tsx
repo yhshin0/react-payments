@@ -1,5 +1,5 @@
-import React, { ReactElement } from 'react';
+import React from 'react';
 
-export const InputBox = ({ children }: { children: ReactElement[] }) => {
+export const InputBox = ({ children }: { children: React.ReactNode[] }) => {
   return <div>{children}</div>;
 };

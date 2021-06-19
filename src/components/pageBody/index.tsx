@@ -1,5 +1,5 @@
-import React, { ReactElement } from 'react';
+import React from 'react';
 
-export const PageBody = ({ className, children }: { className: string; children: ReactElement[] }) => {
+export const PageBody = ({ className, children }: { className: string; children: React.ReactNode }) => {
   return <div className={className}>{children}</div>;
 };
